@@ -1,6 +1,6 @@
-### Hi I'm Mati Sykuler 👋
-### I'm just getting started with this new world 🤩
-### My goal is to become a Web3 engineer. I'm currently studying Full Stack Development in Digital House academy 👨‍💻
+### 👋 Hi I'm Mati Sykuler
+### 🤩 I'm just getting started with this new world
+### 👨‍💻 My goal is to become a Web3 engineer. I'm currently studying Full Stack Development in Digital House academy
 
 <!--
 **matisyk/matisyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
